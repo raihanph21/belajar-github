@@ -1,0 +1,2 @@
+ini file coba aja
+ini buat nyoba merge 2 branch
