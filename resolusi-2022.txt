@@ -2,4 +2,3 @@ RESOLUSIKU TAHUN 2022
 -  menguasai html, css, dan javascript
 -  menguasai framework css dan js
 -  membuat website portofolio yang menarik
--  lebih bisa menabung
